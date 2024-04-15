@@ -4,83 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5ca298d-87f4-4af8-bccb-80a8d591bab9" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurity.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/src/main/java/com/sangeng/SecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/src/main/java/com/sangeng/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/target/classes/com/sangeng/SecurityApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/target/classes/com/sangeng/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/TokenApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/LoginUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/expression/SGExpressionRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/handler/AccessDeniedHandlerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/handler/AuthenticationEntryPointImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/mapper/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/LoginServcie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/impl/LoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/FastJsonRedisSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/JwtUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/RedisCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/WebUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/test/java/com/sangeng/MapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/TokenApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/CorsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/SecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/LoginUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/ResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/expression/SGExpressionRoot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/filter/JwtAuthenticationTokenFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/handler/AccessDeniedHandlerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/handler/AuthenticationEntryPointImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/mapper/MenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/LoginServcie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/impl/LoginServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/impl/UserDetailsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/FastJsonRedisSerializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/JwtUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/RedisCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/WebUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/test-classes/com/sangeng/MapperTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="d5ca298d-87f4-4af8-bccb-80a8d591bab9" name="Changes" comment="First" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +202,7 @@
       <workItem from="1712550898901" duration="2973000" />
       <workItem from="1712737643472" duration="848000" />
       <workItem from="1712771518670" duration="77000" />
-      <workItem from="1713166231413" duration="3133000" />
+      <workItem from="1713166231413" duration="3441000" />
     </task>
     <servers />
   </component>
