@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5ca298d-87f4-4af8-bccb-80a8d591bab9" name="Changes" comment="First">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f3224a83-1492-4e99-b880-644a8a8a20b6/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/src/main/java/com/sangeng/SecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/src/main/java/com/sangeng/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/target/classes/com/sangeng/SecurityApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengSecurityQuickStart/target/classes/com/sangeng/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/TokenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/expression/SGExpressionRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/handler/AccessDeniedHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/handler/AuthenticationEntryPointImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/mapper/MenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/LoginServcie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/FastJsonRedisSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/RedisCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/java/com/sangeng/utils/WebUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/src/test/java/com/sangeng/MapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/TokenApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/CorsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/LoginUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/ResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/expression/SGExpressionRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/filter/JwtAuthenticationTokenFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/handler/AccessDeniedHandlerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/handler/AuthenticationEntryPointImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/mapper/MenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/LoginServcie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/service/impl/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/FastJsonRedisSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/JwtUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/RedisCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/com/sangeng/utils/WebUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/classes/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SanGengTokenDemo/target/test-classes/com/sangeng/MapperTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../develop/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2bowatPgvuqHr9ZDV69sae3kzmm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/idea.code/SanGengSecurity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26206896",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "5bdd6293594f4a0f4bb2f334440fa23b",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ],
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea.code\SanGengSecurity\SanGengTokenDemo\src\main\java\com\sangeng" />
+      <recent name="D:\idea.code\SanGengSecurity\SanGengTokenDemo\src\main\java\com\sangeng\config" />
+      <recent name="D:\idea.code\SanGengSecurity\SanGengTokenDemo\src\main\java\com\sangeng\handler" />
+      <recent name="D:\idea.code\SanGengSecurity\SanGengTokenDemo\src\main\resources" />
+      <recent name="D:\idea.code\SanGengSecurity\SanGengTokenDemo\src\main\java\com\sangeng\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TokenApplication">
+    <configuration name="JwtUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.utils.JwtUtil" />
+      <module name="SanGengTokenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.TestBCryptPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SanGengTokenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.MapperTest" />
+      <option name="METHOD_NAME" value="TestBCryptPasswordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testSelectPermsByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SanGengTokenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.MapperTest" />
+      <option name="METHOD_NAME" value="testSelectPermsByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testUserMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SanGengTokenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.MapperTest" />
+      <option name="METHOD_NAME" value="testUserMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SanGengTokenDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.TokenApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TokenApplication" />
+        <item itemvalue="JUnit.MapperTest.testSelectPermsByUserId" />
+        <item itemvalue="JUnit.MapperTest.TestBCryptPasswordEncoder" />
+        <item itemvalue="Application.JwtUtil" />
+        <item itemvalue="JUnit.MapperTest.testUserMapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ca298d-87f4-4af8-bccb-80a8d591bab9" name="Changes" comment="" />
+      <created>1706894807757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706894807757</updated>
+      <workItem from="1706894809332" duration="9000" />
+      <workItem from="1706894903920" duration="5845000" />
+      <workItem from="1706902495677" duration="78000" />
+      <workItem from="1706945440295" duration="22050000" />
+      <workItem from="1706984342137" duration="992000" />
+      <workItem from="1707039061855" duration="14935000" />
+      <workItem from="1707075841784" duration="10000" />
+      <workItem from="1707075873904" duration="75000" />
+      <workItem from="1707116940754" duration="8412000" />
+      <workItem from="1707135902216" duration="14909000" />
+      <workItem from="1707206541280" duration="1935000" />
+      <workItem from="1707220981434" duration="254000" />
+      <workItem from="1707273724221" duration="4688000" />
+      <workItem from="1708188608428" duration="610000" />
+      <workItem from="1708446561621" duration="759000" />
+      <workItem from="1709020308594" duration="3124000" />
+      <workItem from="1709389237922" duration="709000" />
+      <workItem from="1709713716157" duration="1363000" />
+      <workItem from="1709907005086" duration="1303000" />
+      <workItem from="1710064342412" duration="1260000" />
+      <workItem from="1710895650734" duration="1089000" />
+      <workItem from="1711008663809" duration="699000" />
+      <workItem from="1712550898901" duration="2973000" />
+      <workItem from="1712737643472" duration="848000" />
+      <workItem from="1712771518670" duration="77000" />
+      <workItem from="1713166231413" duration="3133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
+  </component>
+</project>
